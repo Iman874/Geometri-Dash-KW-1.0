@@ -164,4 +164,4 @@ Created by **Rosul Iman**.
 
 ---
 
-> 🌟 A lightweight clone project for practicing game development using Python Arcade – 2025
+> 🌟 A lightweight clone project for practicing game development using Python Arcade – 2024
